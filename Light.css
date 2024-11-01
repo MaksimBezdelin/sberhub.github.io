@@ -1,0 +1,37 @@
+.zagolovok2{
+    color: rgb(0, 150, 0);
+    font-weight: 500;
+}
+.Sber{
+    width: 10%;
+}
+.bgrd{
+    background: #ffffff;
+}
+.bgdiv{
+    margin-top: 1.5%;
+    padding: 1.5%;
+    
+    border-radius: 20px;
+    background: #ffffff;
+}
+.bgdiv2{
+    font-size: 125%;
+    font-family: sans-serif;
+    margin-top: 3%;
+    padding: 1.5%;
+    border: 1px solid #dfdfdf;
+    border-radius: 20px;
+    background: #dbf4ff;
+}
+
+.tg{
+    background: linear-gradient(to right, #1fb430ee 30%, #00dd0be7 50%, #1fb430ee);
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 150%;
+    padding: 1.5%;
+
+    border-radius: 15px;
+    text-decoration: none;
+}
